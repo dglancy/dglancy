@@ -1,16 +1,15 @@
-## Hi there 👋
+# Damien Glancy
 
-<!--
-**dglancy/dglancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I’m an engineering leader with over two decades of experience guiding mature tech organizations and launching early-stage products from inception to acquisition. 
 
-Here are some ideas to get you started:
+I believe that great software relies on clear roles, defined processes, and constant communication—principles I bring to both organizational strategy and codebase architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Open Source & Technical Projects
+This space is where I tinker, automate, and build things that catch my interest. You'll find me:
+* Developing [AutoRoute](https://www.targatrips.com/autoroute/) and [PorscheConnect](https://github.com/driven-app/porsche-connect) in **Swift**.
+* Building automation pipelines to cut down on manual workflows.
+
+### 📮 Find Me Elsewhere
+* **Professional:** Senior Vice President of Engineering at [PageUp](https://www.pageuppeople.com)
+* **Writing:** [Targa Trips](https://www.targatrips.com) (Porsche 911 travel & photography)
+* **Networking:** [LinkedIn](https://www.linkedin.com/in/damienglancy)
