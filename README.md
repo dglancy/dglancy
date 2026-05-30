@@ -13,3 +13,8 @@ This space is where I tinker, automate, and build things that catch my interest.
 * **Professional:** Senior Vice President of Engineering at [PageUp](https://www.pageuppeople.com)
 * **Writing:** [Targa Trips](https://www.targatrips.com) (Porsche 911 travel & photography)
 * **Networking:** [LinkedIn](https://www.linkedin.com/in/damienglancy)
+
+### 🎤 Public speaking
+* [What great career sites have in common](https://web.archive.org/web/20251031211944/https://www.unleash.ai/unleashworld/session/what-great-career-sites-have-in-common-lessons-from-a-decade-of-data/) at [Unleash 2025](https://www.unleash.ai/events/unleash-paris)
+* [Building talent clarity: Qualifying candidates earlier in an AI-driven market](https://www.unleash.ai/talent-acquisition/webinars/building-talent-clarity-qualifying-candidates-earlier-in-an-ai-driven-market)
+* [What great career sites have in common](https://www.linkedin.com/posts/pageup_what-happens-when-construction-industry-ta-activity-7463545469307170816-WPM-) at UK Construction Event in London.
