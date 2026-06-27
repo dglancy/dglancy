@@ -8,7 +8,7 @@ I believe that great software relies on clear roles, defined processes, and cons
 This space is where I tinker, automate, and build things that catch my interest. You'll find me:
 
 * Developing [Driveline](https://www.targatrips.com/driveline/) and [PorscheConnect](https://github.com/driven-app/porsche-connect) in **Swift**.
-* Previously authored the popular [Radio for Mac](https://github.com/hetissimpel/radioformac) and one of the first iPad apps [PicStroom](https://download.cnet.com/picstroom/3000-12511_4-75508191.html).
+* Previously authored the popular [Radio for Mac](https://github.com/hetissimpel/radioformac) and one of the first iPad apps [PicStroom](https://github.com/dglancy/PicStroom).
 
 ### 📮 Find Me Elsewhere
 * **Professional:** Senior Vice President of Engineering at [PageUp](https://www.pageuppeople.com).
